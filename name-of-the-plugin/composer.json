@@ -1,0 +1,22 @@
+{
+  "name": "accrosoft/vf-plugin",
+  "description": "Plugin for integrating extra stuff into the VF WordPress site",
+  "type": "wordpress-plugin",
+  "version": "3.0",
+  "keywords": [
+    "wordpress, plugin"
+  ],
+  "require": {
+      "theiconic/php-ga-measurement-protocol": "^2.0",
+      "firebase/php-jwt": "^5.0",
+      "google/apiclient": "^2.0",
+      "predis/predis": "^1.1.1"
+  },
+  "authors": [
+    {
+      "name": "Nicholas Griffin",
+      "email": "nicholas.griffin@accrosoft.com",
+      "role": "developer"
+    }
+  ]
+}
